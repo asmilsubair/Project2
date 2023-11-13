@@ -1,0 +1,14 @@
+Body {
+    background-color: rgb(215, 247, 247);
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.container > li{
+    list-style: none;
+    padding: 2px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
